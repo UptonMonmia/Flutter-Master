@@ -44,6 +44,8 @@ Cubit package basics [Go](/State%20Management/Cubit%20basics)
 
 ### Helpful Packages
 
-Basics of Flutter Hooks [Go](/Helpful%20Packages/flutter_hooks/baiscs)
+Basics of Flutter Hooks [Go](/Helpful%20Packages/flutter_hooks/basics)
 
 Creating Custom Hook [Go](/Helpful%20Packages/flutter_hooks/custom%20hooks)
+
+Responsive UI with Screen Utils [Go](/Helpful%20Packages/flutter_screenutil/)
