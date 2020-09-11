@@ -34,6 +34,8 @@ Linear Progress Indicator [Go](/Code%20Snippets/Linear%20Progress%20Indicator)
 
 Basics of BackdropFilter [Go](/Code%20Snippets/Backdrop%20Filter)
 
+Basics of OrientationBuilder [Go](/Code%20Snippets/Orientation%20Builder)
+
 ### Dart
 
 Extension methods [Go](/Dart/Extension%20Methods)
