@@ -53,3 +53,5 @@ Basics of Flutter Hooks [Go](/Helpful%20Packages/flutter_hooks/basics)
 Creating Custom Hook [Go](/Helpful%20Packages/flutter_hooks/custom%20hooks)
 
 Responsive UI with Screen Utils [Go](/Helpful%20Packages/flutter_screenutil/)
+
+Biometrics Authentication [Go](/Helpful%20Packages/local_auth/)
